@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 [![Zanderp25's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zanderp25&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Zanderp25's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zanderp25&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderp25)](https://github.com/anuraghazra/github-readme-stats)
