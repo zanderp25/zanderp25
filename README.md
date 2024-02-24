@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 **zanderp25/zanderp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 [![Zanderp25's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zanderp25&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderp25)](https://github.com/anuraghazra/github-readme-stats)
+-->
